@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Kamal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Senior frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalyadav11&label=Profile%20views&color=0e75b6&style=flat" alt="kamalyadav11" /> </p>
 
-- 🔭 I’m currently working on **exploring PWAs**
+- 🔭 I’m currently working on **Micro Frontends**
 
-- 🌱 I’m currently learning **SSR, PWA, Web performance optimization**
+- 🌱 I’m currently exploring **the ever-changing frontend world**
 
-- 👯 I’m looking to collaborate on **anything in the frontend space**
+- 👯 I’m looking to collaborate on **anything in the frontend and backend space**
 
-- 🤝 I’m looking for help with **Javascript, React and related technologies**
+- 🤝 I’m can help you with **Javascript, React, Node and other related technologies**
 
 - 👨‍💻 All of my projects are available at [Link coming soon](Link coming soon)
 
 - 📝 I regularly write articles on [Link coming soon](Link coming soon)
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **Javascript, React, NodeJS, Redux, Frontend in general, Web Optimisation, Performance, Webpack, PWAs, etc**
 
 - 📫 How to reach me **kyzx11@gmail.com**
 
